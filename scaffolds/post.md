@@ -6,4 +6,6 @@ categories:
 tags:
 top: false
 pic:
+comments: true
+toc: true
 ---
